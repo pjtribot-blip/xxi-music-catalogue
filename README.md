@@ -2,7 +2,7 @@
 
 Catalogue des éditions musicales de **XXI Music Publishing** et de sa collection **Ravel Edition**, exposé en données ouvertes pour être lu, cité et résolu par les humains comme par les agents logiciels.
 
-Cette version couvre le **catalogue complet** : 55 œuvres — matériel orchestral, concertos, voix, musique de chambre et piano solo.
+Cette version couvre le **catalogue complet** : 57 œuvres — matériel orchestral, concertos, voix, musique de chambre et piano solo.
 
 → **Le fichier de données : [`catalogue.json`](catalogue.json)**
 
