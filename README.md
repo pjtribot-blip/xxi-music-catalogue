@@ -2,13 +2,15 @@
 
 Catalogue des éditions musicales de **XXI Music Publishing** et de sa collection **Ravel Edition**, exposé en données ouvertes pour être lu, cité et résolu par les humains comme par les agents logiciels.
 
-Cette version couvre le **catalogue complet** : 54 œuvres — matériel orchestral, concertos, voix, musique de chambre et piano solo.
+Cette version couvre le **catalogue complet** : 55 œuvres — matériel orchestral, concertos, voix, musique de chambre et piano solo.
 
 → **Le fichier de données : [`catalogue.json`](catalogue.json)**
 
 ## Champs
 
-Chaque œuvre comporte : compositeur, titre, sous-titre, collection (*Ravel Edition* ou *XXI Music Publishing*), numéro de volume le cas échéant, type d'édition, effectif, durée en minutes, ISMN, mode d'acquisition (`vente` ou `location`), disponibilité.
+Chaque œuvre comporte : compositeur, titre, sous-titre, collection (*Ravel Edition* ou *XXI Music Publishing*), numéro de volume le cas échéant, type d'édition, effectif, durée en minutes, ISMN, mode d'acquisition (`vente` ou `location`), disponibilité. S'y ajoutent : catégorie (`orchestre`, `concerto`, `voix`, `chambre`, `piano`), portée (`Création` ou `Patrimoine`), année, notes, lien vers la fiche œuvre du site (`page`), libellés anglais (bloc `en`) et, le cas échéant, enregistrements.
+
+Ce fichier est la **source unique** du catalogue : les pages catalogue et bibliothèque d'orchestre de 21music-publishing.com en sont générées.
 
 ## Licence
 
