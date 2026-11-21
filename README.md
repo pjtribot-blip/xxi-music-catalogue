@@ -2,7 +2,7 @@
 
 Catalogue des éditions musicales de **XXI Music Publishing** et de sa collection **Ravel Edition**, exposé en données ouvertes pour être lu, cité et résolu par les humains comme par les agents logiciels.
 
-Cette version couvre le **matériel jouable** — œuvres orchestrales, concertos et opéra, soit 40 œuvres. Le catalogue complet (musique de chambre et piano solo compris) sera ajouté lors de la mise à jour de janvier 2027.
+Cette version couvre le **catalogue complet** : 54 œuvres — matériel orchestral, concertos, voix, musique de chambre et piano solo.
 
 → **Le fichier de données : [`catalogue.json`](catalogue.json)**
 
@@ -20,8 +20,8 @@ Location et vente du matériel : **sales@21-music.be** — https://www.21music-p
 
 ## Source et mises à jour
 
-Données relevées sur 21music-publishing.com, arrêtées au 2 mai 2026. Version provisoire : le fichier est régénéré à chaque mise à jour du catalogue, l'historique des versions du dépôt faisant foi de l'état à une date donnée.
+Données relevées sur 21music-publishing.com, arrêtées au 21 novembre 2026. Version provisoire : le fichier est régénéré à chaque mise à jour du catalogue, l'historique des versions du dépôt faisant foi de l'état à une date donnée.
 
 ---
 
-*English — Open-data catalogue of XXI Music Publishing and its Ravel Edition imprint (performing material: orchestral, concerto and opera works). Licensed CC-BY-4.0. Rental and sales: sales@21-music.be.*
+*English — Open-data catalogue of XXI Music Publishing and its Ravel Edition imprint (full catalogue: orchestral, concerto, vocal, chamber and solo piano works). Licensed CC-BY-4.0. Rental and sales: sales@21-music.be.*
